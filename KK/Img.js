@@ -1,6 +1,6 @@
 const images = [
-  "KK/KKK/logo1.PNG","KK/KKK/logo2.PNG","KK/KKK/logo3.PNG","KK/KKK/logo4.PNG","KK/KKK/logo5.PNG","KK/KKK/logo6.PNG","KK/KKK/logo7.PNG","KK/KKK/logo8.PNG",
-  "KK/KKK/logo9.PNG","KK/KKK/logo10.PNG","KK/KKK/logo11.PNG","KK/KKK/logo12.PNG","KK/KKK/logo13.PNG","KK/KKK/logo14.PNG","KK/KKK/logo15.PNG","KK/KKK/logo16.PNG",
+  "KK/KKK/logo01.PNG","KK/KKK/logo02.PNG","KK/KKK/logo03.PNG","KK/KKK/logo04.PNG","KK/KKK/logo05.PNG","KK/KKK/logo06.PNG","KK/KKK/logo07.PNG","KK/KKK/logo08.PNG",
+  "KK/KKK/logo09.PNG","KK/KKK/logo10.PNG","KK/KKK/logo11.PNG","KK/KKK/logo12.PNG","KK/KKK/logo13.PNG","KK/KKK/logo14.PNG","KK/KKK/logo15.PNG","KK/KKK/logo16.PNG",
   "KK/KKK/logo17.PNG","KK/KKK/logo18.PNG","KK/KKK/logo19.PNG","KK/KKK/logo20.PNG","KK/KKK/logo21.PNG","KK/KKK/logo22.PNG","KK/KKK/logo23.PNG","KK/KKK/logo24.PNG",
   "KK/KKK/logo25.PNG","KK/KKK/logo26.PNG","KK/KKK/logo27.PNG","KK/KKK/logo28.PNG","KK/KKK/logo29.PNG","KK/KKK/logo30.PNG","KK/KKK/logo31.PNG","KK/KKK/logo32.PNG",
   "KK/KKK/logo33.PNG","KK/KKK/logo34.PNG","KK/KKK/logo35.PNG","KK/KKK/logo36.PNG","KK/KKK/logo37.PNG","KK/KKK/logo38.PNG","KK/KKK/logo39.PNG","KK/KKK/logo40.PNG",
