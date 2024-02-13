@@ -13,17 +13,17 @@ const images = [
 
 const displayedImages = []; // เพิ่ม array เก็บรูปภาพที่ถูกแสดงแล้ว
 
-function displayImage(imagePath) {
+function displayImage(imagePath) {  
   const imageContainer = document.getElementById('imgElement');
 
   // เพิ่มเส้นทางรูปภาพลงใน displayedImages
   displayedImages.push(imagePath);
 
   // ตรวจสอบว่าเมื่อเพิ่มเส้นทางรูปภาพลงใน displayedImages ทำให้ครบ 9 รูปหรือไม่
-  if (displayedImages.length === 9) {
-    // ถ้าครบ 9 รูป, ให้ลบรูปเก่าสุด 1 รูป
-    displayedImages.shift();
-  }
+  // if (displayedImages.length === 9) {
+  //   // ถ้าครบ 9 รูป, ให้ลบรูปเก่าสุด 1 รูป
+  //   displayedImages.shift();
+  // }
 
   // แสดงรูปภาพทั้งหมด
   imageContainer.src = displayedImages[displayedImages.length - 1];
